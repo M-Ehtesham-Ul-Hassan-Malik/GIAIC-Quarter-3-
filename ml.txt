@@ -1,0 +1,13 @@
+pip
+jupyter
+numpy 
+pandas 
+matplotlib
+seaborn
+scipy
+scikit-learn
+opencv-python
+imbalanced-learn
+nltk
+spacy
+streamlit
